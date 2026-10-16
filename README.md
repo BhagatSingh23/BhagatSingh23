@@ -12,11 +12,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science undergrad at **MNNIT** who likes building full-stack products end to end, from the database schema to the deployed UI, and solving hard problems under a timer. Outside code, I play **chess** and read.
-
-- 🛠️ Building: a localized hiring marketplace and a dev-lifecycle management platform
-- 🏆 1,000+ problems solved across platforms
-- 🎯 Currently looking for **Summer 2027 software engineering internships**
+Hey, I enjoy Chess.
 
 ## 🏅 Competitive Programming
 
