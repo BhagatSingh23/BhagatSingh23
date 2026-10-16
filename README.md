@@ -12,7 +12,9 @@
 
 ## 👋 About Me
 
-Hey, I enjoy Chess.
+Hi, I'm **Bhagat Singh**, a pre-final year Computer Science student at **MNNIT Allahabad**.
+
+Java is my primary language, and I'm equally comfortable in Python, JavaScript and more. I like building full-stack applications with Spring Boot and React, and I solve problems competitively on LeetCode, Codeforces and CodeChef. Away from the keyboard, you'll usually find me playing chess.
 
 ## 🏅 Competitive Programming
 
@@ -22,7 +24,7 @@ Hey, I enjoy Chess.
 | **Codeforces** | Bhagat09 | **1367** (Pupil) | Global rank 1390, Div. 4 Round 1062 |
 | **CodeChef** | bhagat09 | **1689** (3★) | World ranks 354, 384, 364 in Starters 209, 210, 216 |
 
-Also: 🥇 Won **Codotron** (college event) · 🥈 Top 5 of 80+ teams in the *Chihuahua vs Muffin* Data-Centric AI Challenge (Unstop × 3LC)
+Also: 🥈 Top 5 of 80+ teams in the *Chihuahua vs Muffin* Data-Centric AI Challenge (Unstop × 3LC)
 
 ## 🚀 Featured Projects
 
